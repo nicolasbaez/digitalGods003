@@ -22,7 +22,6 @@ Jugando con luz!
 2. digitalGods.js
 ```javascript
 //variables
-//variables
 var nEdificios=128;
 var pisosEdificio=64;
 var wEdificios=[];
